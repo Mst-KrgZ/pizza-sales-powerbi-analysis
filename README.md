@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis – Power BI Dashboard
 
-![Dashboard](Screenshot 2026-03-08 151620.png)
+![Dashboard](images/Screenshot 2026-03-08 151620.png)
 
 This project analyzes one year of sales data from a fictional pizza restaurant using Power BI.
 
